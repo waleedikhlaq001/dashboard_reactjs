@@ -39,26 +39,6 @@ Here's the stack used for building the Sundar Dashboard application:
 ### Optional/Additional Tools
 * VS Code: Code editor used for development.
 
+### Screenshots
 
-
-Screenshots:
-
-Screenshots\categories.png
-
-Screenshots\dash.png
-
-Screenshots\password.png
-
-Screenshots\task.png
-
-Screenshots\vital.png
-
-Screenshots\account_info.png
-
-
-
-
-
-
-
-
+![Alt text](/Screenshots\account_info.png?raw=true "Optional Title")

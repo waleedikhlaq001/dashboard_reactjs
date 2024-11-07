@@ -41,4 +41,4 @@ Here's the stack used for building the Sundar Dashboard application:
 
 ### Screenshots
 
-![account info](/account_info.png?raw=true "Account info")
+![account info](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/account_info.png?raw=true "Account info")

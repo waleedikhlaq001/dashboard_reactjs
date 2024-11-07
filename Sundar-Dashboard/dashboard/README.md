@@ -42,3 +42,14 @@ Here's the stack used for building the Sundar Dashboard application:
 ### Screenshots
 
 ![account info](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/account_info.png?raw=true "Account info")
+
+![categories](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/categories.png?raw=true "Categories")
+
+![account info](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/dash.png?raw=true "Dashboard")
+
+![account info](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/vital.png?raw=true "Vital")
+
+![account info](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/task.png?raw=true "Task")
+
+![password](https://github.com/waleedikhlaq001/dashboard_reactjs/blob/main/Screenshots/password.png?raw=true "password")
+

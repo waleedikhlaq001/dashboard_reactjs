@@ -41,4 +41,4 @@ Here's the stack used for building the Sundar Dashboard application:
 
 ### Screenshots
 
-![Alt text](Sundar-Dashboard\dashboard\src\assets\Screenshots\categories.png?raw=true "Optional Title")
+![Alt text](/src/assets/Screenshots/categories.png?raw=true "Optional Title")
